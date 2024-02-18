@@ -5,6 +5,7 @@
 <img alt="코방대" src="https://github.com/Coding-Village-Protector/.github/assets/26590099/7dab599b-ebca-49a4-9931-6323dcd25ece" width="500" />
 
 <br />
+<br />
 
 ## 🗂️ 스터디 일지 🗂️
 <table>
@@ -31,4 +32,38 @@
   </tr>
 </table>
 
+
+<br />
+
+## 🤓 스터디원 🤓
+
+<table>
+<tbody>
+<tr>
+<td align="center"> <img width="200" alt="강지윤 깃허브 프로필 이미지" src="https://github.com/eeeyooon.png"></td>
+<td align="center"> <img width="200" alt="이예솔 깃허브 프로필 이미지" src="https://github.com/lulla-by.png"></td>
+<td align="center"> <img width="200" alt="이성령 깃허브 프로필 이미지" src="https://github.com/sryung1225.png"></td>
+<td align="center"> <img width="200" alt="이에스더 깃허브 프로필 이미지" src="https://github.com/Stilllee.png"></td>
+<td align="center"> <img width="200" alt="채하은 깃허브 프로필 이미지" src="https://github.com/chaehaeun.png"></td>
+</tr>
+<tr>
+<th align="center">강지윤</th>
+<th align="center">이예솔</th>
+<th align="center">이성령</th>
+<th align="center">이에스더</th>
+<th align="center">채하은</th>
+</tr>
+<tr>
+<td align="center" width="120"><a href="https://github.com/eeeyooon">@eeeyooon</a></td>
+<td align="center" width="120"><a href="https://github.com/lulla-by">@lulla-by</a></td>
+<td align="center" width="120"><a href="https://github.com/sryung1225">@sryung1225</a></td>
+<td align="center" width="120"><a href="https://github.com/Stilllee">@Stilllee</a></td>
+<td align="center" width="120"><a href="https://github.com/chaehaeun">@chaehaeun</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
 </div>
