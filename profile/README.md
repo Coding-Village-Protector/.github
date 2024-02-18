@@ -2,15 +2,15 @@
 
 # 🎈 코딩 마을 방범대 🔫
 
-<img alt="코방대" src="https://github.com/Coding-Village-Protector/.github/assets/26590099/7dab599b-ebca-49a4-9931-6323dcd25ece" width="600" />
+<img alt="코방대" src="https://github.com/Coding-Village-Protector/.github/assets/26590099/7dab599b-ebca-49a4-9931-6323dcd25ece" width="500" />
 
 <br />
 
 ## 🗂️ 스터디 일지 🗂️
 <table>
   <tr>
-    <td align="center">1회 (24/01/03 - 24/02/13)</td>
-    <td align="center">2회 (24/02/13 - 24/04/03)</td>
+    <td align="center"><b>1회</b> (24/01/03 - 24/02/13)</td>
+    <td align="center"><b>2회</b> (24/02/13 - 24/04/03)</td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/assets/woowa-ts-book.jpg?raw=true" width="200"></td>
@@ -26,7 +26,7 @@
       <img alt="REACT" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="JAVASCRIPT" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black" />
+      <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=Javascript&logoColor=black" />
     </td>
   </tr>
 </table>
