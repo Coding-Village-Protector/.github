@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center"><b>1회</b> (24/01/03 - 24/02/13)</td>
-    <td align="center"><b>2회</b> (24/02/13 - 24/04/03)</td>
+    <td align="center"><b>2회</b> (24/02/13 - 24/04/10)</td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/assets/woowa-ts-book.jpg?raw=true" width="200"></td>
